@@ -1,4 +1,4 @@
-# VoiceCloning
+# Voice Cloning
 
 ## Original Repository
 This project is based on [Coqui-AI TTS](https://github.com/idiap/coqui-ai-TTS)
